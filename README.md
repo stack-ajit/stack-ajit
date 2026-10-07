@@ -1,4 +1,4 @@
-# Hi, I'm Ajit Kumar 👋
+# Hey, I'm Ajit 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
