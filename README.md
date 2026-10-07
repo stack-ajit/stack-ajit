@@ -142,7 +142,7 @@ Worked under the Chief Data Scientist on the FORGE and Education Ontology projec
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stack-ajit/stack-ajit/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stack-ajit/stack-ajit/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/stack-ajit/stack-ajit/output/github-snake.svg">
+    <!-- <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/stack-ajit/stack-ajit/output/github-snake.svg"> -->
   </picture>
 </p>
 
